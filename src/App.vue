@@ -7,8 +7,10 @@ import Header from './components/Header.vue'
 
 <template>
   <nav class="text-right mr-7 text-white font-semibold">
-    <router-link to="/Login">Login</router-link>&nbsp;
-    <router-link to="/about">Landing page</router-link>
+    <router-link to="/">Inicio</router-link>&nbsp;
+    <router-link to="/Register">Registro</router-link>&nbsp;
+    <router-link to="/Login">Entrar</router-link>&nbsp;
+    <!--<router-link to="/about">Landing page</router-link>-->
   </nav>
   <Header></Header>
   

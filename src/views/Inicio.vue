@@ -1,7 +1,7 @@
 <script>
-import Portada from './Portada.vue'
+import Portada from '../components/Portada.vue'
 export default {
-  name: "About",
+  name: "Portada",
 };
 </script>
 

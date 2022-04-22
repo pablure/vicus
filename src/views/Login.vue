@@ -1,5 +1,5 @@
 <script>
-import FormularioLogin from "./FormularioLogin.vue";
+import FormularioLogin from "../components/FormularioLogin.vue";
 export default {
     name: "Login",
     components: { FormularioLogin }
